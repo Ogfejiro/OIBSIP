@@ -1,0 +1,250 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "PT Serif", serif;
+}
+
+.container {
+  width: 100%;
+  margin: 0 auto;
+}
+
+.header {
+  text-align: center;
+  background: url(images/hand-drawn-vpn-illustration_23-2149229494.jpg);
+  background-size: cover;
+  height: 80vh;
+  box-shadow: 10px 10px 5px rgb(189, 185, 185);
+}
+
+.logo {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 12px;
+}
+
+.logo-img {
+  width: 20px;
+}
+
+.logo-div {
+  color: rgb(189, 9, 9);
+  font-weight: bolder;
+  font-size: 30px;
+}
+
+.nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 30px;
+}
+
+.dropbtn {
+  color: black;
+  font-size: 16px;
+  border: none;
+  cursor: pointer;
+}
+
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f9f9f9;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+  z-index: 1;
+}
+
+.dropdown-content a {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+
+.dropdown-content a:hover {
+  background-color: #76b8e4;
+}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+
+.nav-down {
+  padding-top: 90px;
+  line-height: 50px;
+}
+
+.nav-down h1 {
+  font-size: 90px;
+}
+
+.nav-down p {
+  font-size: 30px;
+  padding-top: 30px;
+}
+.nav-down h6 {
+  font-size: 14px;
+}
+
+.btn {
+  padding: 10px;
+  border: none;
+  border-radius: 18px;
+  width: 14%;
+  background-color: rgb(2, 165, 65);
+  color: aliceblue;
+}
+
+.section {
+  padding-top: 20%; /* Adjust as needed */
+  box-shadow: 10px 10px 5px grey;
+}
+
+.flex {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding-bottom: 80px;
+}
+
+.devices {
+  display: flex;
+  justify-content: left;
+  align-items: left;
+  gap: 20px;
+}
+
+.small img {
+  width: 30px;
+  background-color: #2c6a94;
+}
+
+.ab a {
+  color: rgb(2, 165, 65);
+  font-weight: 700;
+  text-align: left;
+  justify-content: left;
+  align-items: left;
+}
+.right {
+  text-align: left;
+}
+.btnb {
+  padding: 10px;
+  border: none;
+  border-radius: 18px;
+  width: 50%;
+  background-color: rgb(2, 165, 65);
+  color: aliceblue;
+}
+
+.cover h2 {
+  text-align: left;
+}
+
+.cover p {
+  width: 410px;
+  text-align: left;
+  margin-bottom: 20px;
+}
+
+.contr img {
+  margin-right: 40%;
+}
+
+.section-two-main {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-top: 270px;
+}
+
+.center {
+  text-align: center;
+  padding-bottom: 12px;
+}
+
+.cent img {
+  border-radius: 10px;
+  width: 60%;
+  height: 130px;
+  box-shadow: 10px 10px 5px rgb(189, 185, 185);
+}
+
+.center h4 {
+  padding-top: 13px;
+  width: 40%;
+  margin-left: 150px;
+
+  font-size: 19px;
+}
+
+.center p {
+  width: 60%;
+  text-align: center;
+  margin-left: 85px;
+  line-height: 20px;
+  padding-top: 14px;
+}
+
+.a {
+  text-align: center;
+  padding-bottom: 20%;
+  padding-top: 10%;
+}
+
+i.fa.fa-infinity {
+  width: 30%;
+}
+
+.a a {
+  color: rgb(2, 165, 65);
+  font-weight: 500;
+}
+
+.footer {
+  background-color: pink;
+  padding-top: 30px;
+  height: 90vh;
+}
+
+.footer-flex {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding-top: 20px;
+}
+
+.footer h1 {
+  text-align: center;
+  font-size: 40px;
+}
+
+.footer-flex img {
+  width: 70%;
+}
+
+.footer-type h3 {
+  font-size: 70px;
+}
+
+.footer-type p {
+  font-size: 20px;
+}
+
+.footer-type i {
+  width: 90px;
+}
+
+a {
+  color: rgb(2, 165, 65);
+}

@@ -1,0 +1,47 @@
+<div class="cover">
+  <div>
+    <img src="images/secure.png" />
+  </div>
+  <div class="cover-two">
+    <h2>Secure Access Worldwide</h2>
+    <p>
+      Connect reliably from anywhere to anywhere. Our network of high-speed
+      servers across 97 countries put you in control
+    </p>
+    <button class="btn">GetExpressVPN</button>
+  </div>
+</div>
+<div class="cover">
+  <div class="cover-two">
+    <h1>One click to a safer internet</h1>
+    <p>
+      Going online doesnt have to mean being exposed. Weather you are shopping
+      from your desk or just connecting to a cafe, keep your personal
+      information more private and secure.
+    </p>
+  </div>
+  <div>
+    <img src="images/safer.jpg" />
+  </div>
+</div>
+<div class="cover">
+  <div>
+    <img src="images/devices.png" />
+  </div>
+  <div class="cover-two">
+    <h2>Use ExpressVPN on every device</h2>
+    <p>
+      Phone, tablets, computer, router-no matter where you are or what device
+      you are using, a single ExpressVPN subscription has got you covered.
+    </p>
+    <div class="line">
+      <div>1</div>
+      <div>1</div>
+      <div>1</div>
+      <div>1</div>
+      <div>1</div>
+    </div>
+    <div><a href="#">See all apps</a></div>
+    <button class="btn">GetExpressVPN</button>
+  </div>
+</div>
